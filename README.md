@@ -1,4 +1,4 @@
-***CS3704 Semester Project Repository***
+**CS3704 Semester Project Repository**
 
 Welcome to the CS3704 semester-long project repository, where we've compiled all our collaborative efforts.
 
