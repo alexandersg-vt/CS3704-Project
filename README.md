@@ -4,3 +4,5 @@ This is a repository containing all our work for our CS3704 semester long projec
 Team Members:
 Daniel Lanigan | djlanigan
 Alexander Georgiev | alexandersg
+Akshath Majumder | akshath
+Prahaara Malli SH | prahaara08
